@@ -23,12 +23,12 @@ const Hero = () => {
     setCurrentIndex(upcomingVideoIndex);
   };
   const getVideoSrc = (index) => `videos/hero-${index}.mp4`;
-
   useEffect(() => {
     if (loadedVideos === totalVideos - 1) {
       setIsLoading(false);
     }
   }, [loadedVideos]);
+  
   useGSAP(
     () => {
       if (hasClicked) {
@@ -107,8 +107,10 @@ const Hero = () => {
             src={getVideoSrc(
               currentIndex === totalVideos - 1 ? 1 : currentIndex
             )}
-            // autoPlay
+            autoPlay
+            muted
             loop
+            playsInline
             className="absolute left-0 top-0 size-full object-cover object-center pointer-events-none"
             onLoadedData={handleVideoLoad}
           />
