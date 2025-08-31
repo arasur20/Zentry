@@ -12,11 +12,11 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/arasur20/<repo-name>/main/public/img/zentry1.png" alt="Zentry Preview 1" width="600" />
+  <img src="https://raw.githubusercontent.com/arasur20/Zentry/main/public/img/zentry1.png" alt="Zentry Preview 1" width="600" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/arasur20/<repo-name>/main/public/img/zentry2.png" alt="Zentry Preview 2" width="600" />
+  <img src="https://raw.githubusercontent.com/arasur20/Zentry/main/public/img/zentry2.png" alt="Zentry Preview 2" width="600" />
 </p>
 
 ---
