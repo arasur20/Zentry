@@ -6,7 +6,7 @@
 <h3 align="center">Hero Section with React + GSAP + ScrollTrigger</h3>
 
 <p align="center">
-  <a href="https://arasur20.github.io/<repo-name>/">🚀 Live Demo</a>
+  <a href="https://arasur20.github.io/Zentry/">🚀 Live Demo</a>
 </p>
 
 ---
